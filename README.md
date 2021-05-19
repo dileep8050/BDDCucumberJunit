@@ -1,0 +1,2 @@
+# BDDCucumberJunit
+# mvn verify
